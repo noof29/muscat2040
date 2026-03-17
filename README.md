@@ -152,27 +152,9 @@ The Streamlit app includes:
 
 ---
 
-## 🛠️ Regenerate Word Documents
 
-```bash
-pip install python-docx
-python docs/build_executive_summary.py
-python docs/build_technical_appendix.py
-```
 
----
 
-## 📌 Evaluation Criteria Coverage
-
-| Criterion | Weight | Coverage |
-|---|---|---|
-| Logical structure & modelling approach | 30% | Clear formula in app + README + Technical Appendix §3 |
-| Quality & accuracy of calculations | 25% | All formulas documented; cross-checked against two methods |
-| Transparency of assumptions & data sourcing | 20% | 13 sources cited; full assumptions table in Technical Appendix §2 |
-| Clarity of executive communication | 15% | 2-page Executive Summary with tables, findings, recommendations |
-| Usability of interactive model | 10% | 5-tab Streamlit app; adjustable assumptions; sensitivity analysis |
-
----
 
 *Geography: Muscat Governorate (6 wilayat: Muscat, Muttrah, Seeb, Bawshar, Al Amerat, Qurayyat)*  
 *Forecast horizon: 2024–2040 | All data: publicly available sources only*
