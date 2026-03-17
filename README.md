@@ -29,8 +29,6 @@ muscat2040/
 ├── docs/
 │   ├── Executive_Summary.docx             # 2-page decision-maker summary
 │   ├── Technical_Appendix.docx            # Full methodology & sources
-│   ├── build_executive_summary.py         # Script to regenerate Executive Summary
-│   └── build_technical_appendix.py        # Script to regenerate Technical Appendix
 └── README.md
 ```
 
