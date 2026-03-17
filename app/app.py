@@ -1,7 +1,6 @@
 """
 Muscat 2040: Growth & Infrastructure Challenge
 Rihal Codestacker 2026
-Author: Submission
 """
 
 import streamlit as st
